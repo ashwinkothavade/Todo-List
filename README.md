@@ -1,5 +1,3 @@
-
-```markdown
 # ToDoList Application
 
 ## Overview
@@ -20,28 +18,28 @@ The **ToDoList Application** is a simple and interactive web-based tool to help 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashwinkothavade/todolist.git
+   git clone https://github.com/ashwinkothavade/Todo-List.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd todolist
+   cd Todo-List
    ```
 3. Open the `index.html` file in your browser to run the application.
 
 ## Usage
-### Adding a Task:
-- Enter a task in the input field.
-- Click the "Add" button or press Enter to add it to the list.
+1. **Adding a Task**:
+   - Enter a task in the input field.
+   - Click the "Add" button or press Enter to add it to the list.
 
-### Updating a Task:
-- Click the "Edit" icon next to a task.
-- Modify the task and confirm the changes.
+2. **Updating a Task**:
+   - Click the "Edit" icon next to a task.
+   - Modify the task and confirm the changes.
 
-### Deleting a Task:
-- Click the "Delete" icon next to a task to remove it.
+3. **Deleting a Task**:
+   - Click the "Delete" icon next to a task to remove it.
 
 ## Folder Structure
-```bash
+```
 todolist/
 ├── index.html         # Main HTML file
 ├── style.css          # CSS file for styling
@@ -57,9 +55,8 @@ todolist/
 - **Due Dates**: Add and manage deadlines for tasks.
 
 ## Contributing
-Contributions are welcome!
-
-1. Fork the repository.
+Contributions are welcome!  
+1. Fork the repository.  
 2. Create a new branch:
    ```bash
    git checkout -b feature-name
@@ -69,5 +66,5 @@ Contributions are welcome!
    git push origin feature-name
    ```
 4. Submit a pull request.
-```
 
+Happy tasking! 😊
